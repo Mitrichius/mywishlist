@@ -37,13 +37,6 @@ let data = {
             "image": "https://hobbygames.cdnvideo.ru/image/cache/hobbygames_beta/data/Lavka_Games/Pokorenie_Marsa/Colonies/pokoreniemarsa-1024x1024-wm.jpg",
         },
         {
-            "name": "Наушники Sony WH-1000XM4",
-            "price": 30000,
-            "tags": ["техника"],
-            "url": "https://store.sony.ru/product/naushniki-sony-wh-1000xm4-317432/",
-            "image": "https://store.sony.ru/common/img/catalogue/317432/5d02da5df552836db894cead8a68f5f3-big.png",
-        },
-        {
             "name": "Дюна. Иллюстрированная история создания классики научной фантастики",
             "price": 4500,
             "tags": ["артбуки"],
@@ -169,6 +162,14 @@ let data = {
             "tags": ["стикеры"],
             "url": "https://www.parazitakusok.ru/item/3705/",
             "date": "2020-07-08"
+        },
+        {
+            "name": "Наушники Sony WH-1000XM4",
+            "price": 30000,
+            "tags": ["техника"],
+            "url": "https://store.sony.ru/product/naushniki-sony-wh-1000xm4-317432/",
+            "image": "https://store.sony.ru/common/img/catalogue/317432/5d02da5df552836db894cead8a68f5f3-big.png",
+            "archived" : 1,
         },
         {
             "name": "Виски Oban malt 14 years old",
