@@ -16,13 +16,6 @@ let data = {
             "multi": 1,
         },
         {
-            "name": "Apple AirPods Pro",
-            "price": 25000,
-            "tags": ["техника"],
-            "url": "https://www.mvideo.ru/products/naushniki-apple-airpods-pro-with-magsafe-case-mlwk3ru-a-50165904",
-            "image": "https://img.mvideo.ru/Big/50165904bb.jpg",
-        },
-        {
             "name": "Apple Watch Series 7",
             "price": 40000,
             "tags": ["техника"],
@@ -162,6 +155,14 @@ let data = {
             "tags": ["стикеры"],
             "url": "https://www.parazitakusok.ru/item/3705/",
             "date": "2020-07-08"
+        },
+        {
+            "name": "Apple AirPods Pro",
+            "price": 25000,
+            "tags": ["техника"],
+            "url": "https://www.mvideo.ru/products/naushniki-apple-airpods-pro-with-magsafe-case-mlwk3ru-a-50165904",
+            "image": "https://img.mvideo.ru/Big/50165904bb.jpg",
+            "archived": 1,
         },
         {
             "name": "Наушники Sony WH-1000XM4",
