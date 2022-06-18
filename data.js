@@ -38,7 +38,7 @@ let data = {
         },
         {
             "name": "Настольная игра 'Немезида'",
-            "price": 12000,
+            "price": 14000,
             "tags": ["настолки"],
             "url": "https://hobbygames.ru/nemezida",
             "image": "https://hobbygames.cdnvideo.ru/image/cache/hobbygames_beta/data/HobbyWorld/Nemesis/HG/Nemesis_01-1024x1024-wm.jpg",
@@ -50,13 +50,6 @@ let data = {
             "tags": ["geek"],
             "url": "https://hacker.gifts/",
             "image": "https://cdn.shopify.com/s/files/1/0013/8539/8385/products/card_1_1024x1024.png",
-        },
-        {
-            "name": "Комикс-игра 'Похищение'",
-            "price": 800,
-            "tags": ["комиксы"],
-            "url": "https://hobbygames.ru/komiks-igra-pohishhenie",
-            "image": "https://hobbygames.cdnvideo.ru/image/cache/hobbygames_beta/data/HobbyWorld/Komiks_igra_pohishenije/Pohichenie-1024x1024-wm.jpg"
         },
         {
             "name": "Комикс Preacher (Hardcover) Book Four и последующие",
@@ -73,7 +66,7 @@ let data = {
             "tags": ["футболки"],
             "url": "https://www.fangamer.com/collections/hollow-knight/products/grimm-hollow-knight-shirt",
             "image": "https://cdn.shopify.com/s/files/1/0014/1962/products/product_HK_troupe_master_shirt_photo1_1024x1024.png?v=1563036118",
-            "description": "Размер M",
+            "description": "Размер L",
         },
         {
             "name": "Футболка God of War: Greatest Challenge",
@@ -82,7 +75,7 @@ let data = {
             "tags": ["футболки"],
             "url": "https://www.fangamer.com/products/god-of-war-lake-shirt",
             "image": "https://cdn.shopify.com/s/files/1/0014/1962/products/product_GoW_greatestchallenge_shirt_photo1_1024x1024.png?v=1569533503",
-            "description": "Размер M",
+            "description": "Размер L",
         },
         {
             "name": "Футболка Celeste: Sides",
@@ -91,7 +84,7 @@ let data = {
             "tags": ["футболки"],
             "url": "https://www.fangamer.com/collections/celeste/products/celeste-cassette-shirt",
             "image": "https://cdn.shopify.com/s/files/1/0014/1962/products/product_celeste_sides_shirt_photo1_1024x1024.png?v=1580160195",
-            "description": "Размер M",
+            "description": "Размер L",
         },
         {
             "name": "Футболка Myst: Mystic Arcana",
@@ -100,7 +93,7 @@ let data = {
             "tags": ["футболки"],
             "url": "https://www.fangamer.com/collections/myst/products/myst-arcana-shirt",
             "image": "https://cdn.shopify.com/s/files/1/0014/1962/products/product_myst_mystic-arcana_shirt_main_1024x1024.png?v=1594744035",
-            "description": "Размер M",
+            "description": "Размер L",
         },
         {
             "name": "Футболка Dead Cells: The Island",
@@ -109,29 +102,15 @@ let data = {
             "tags": ["футболки"],
             "url": "https://www.fangamer.com/collections/dead-cells/products/dead-cells-logo-shirt",
             "image": "https://cdn.shopify.com/s/files/1/0014/1962/products/product_DeadCells_TheIsland_shirt_photo1_1024x1024.png?v=1566606405",
-            "description": "Размер M",
+            "description": "Размер L",
         },
-        {
-            "name": "Lego Batwing (76161)",
-            "price": 19000,
-            "tags": ["lego"],
-            "url": "https://mir-kubikov.ru/lego/76161/",
-            "image": "https://static.mir-kubikov.ru/upload/resize_cache/iblock/551/746_580_140cd750bba9870f18aada2478b24840a/551158b8c1a2e0c0787a9f5c25dd9936.jpg"
-        },
-        {
-            "name": "Фигурка-утка Tubbz Зефирный человек",
-            "price": 1800,
-            "tags": ["утки"],
-            "url": "https://www.respublica.ru/detyam/igrushki-i-igry/figurki/588170-figurka-utka-tubbz-ohotniki-za-privideniyami-zefirnyy-chelovek",
-            "image": "https://www.respublica.ru/uploads/01/00/00/ew/9f/large_86fc5e3aca97d574.jpg"
-        },
-        {
-            "name": "Фигурка-утка Tubbz Гимли",
-            "price": 1800,
-            "tags": ["утки"],
-            "url": "https://www.respublica.ru/detyam/igrushki-i-igry/figurki/588151-figurka-utka-tubbz-vlastelin-kolets-gimli",
-            "image": "https://www.respublica.ru/uploads/01/00/00/ev/zj/large_7d4f1650425c1d35.jpg"
-        },
+//         {
+//             "name": "Lego Batwing (76161)",
+//             "price": 19000,
+//             "tags": ["lego"],
+//             "url": "https://mir-kubikov.ru/lego/76161/",
+//             "image": "https://static.mir-kubikov.ru/upload/resize_cache/iblock/551/746_580_140cd750bba9870f18aada2478b24840a/551158b8c1a2e0c0787a9f5c25dd9936.jpg"
+//         },
         {
             "name": "Hollow Knight Pin",
             "price": 10,
