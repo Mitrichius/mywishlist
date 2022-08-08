@@ -17,10 +17,10 @@ let data = {
         },
         {
             "name": "Apple Watch Series 7",
-            "price": 40000,
+            "price": 43000,
             "tags": ["техника"],
-            "url": "https://www.mvideo.ru/products/smart-chasy-apple-watch-series-7-gps-45mm-midnightal-midnight-sport-30059215",
-            "image": "https://img.mvideo.ru/Big/30059215bb.jpg",
+            "url": "https://www.mvideo.ru/products/smart-chasy-apple-watch-series-7-gps-45mm-midnightal-midnight-sport-30064118",
+            "image": "https://img.mvideo.ru/Pdb/30064118b.jpg",
         },
         {
             "name": "Настольная игра 'Покорение марса: Колонии'",
