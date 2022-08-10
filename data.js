@@ -23,6 +23,13 @@ let data = {
             "image": "https://img.mvideo.ru/Pdb/30064118b.jpg",
         },
         {
+            "name": "JBL Charge 5",
+            "price": 14000,
+            "tags": ["техника"],
+            "url": "https://www.mvideo.ru/products/besprovodnaya-akustika-jbl-charge-5-teal-10026198",
+            "image": "https://img.mvideo.ru/Big/10026198bb.jpg",
+        },
+        {
             "name": "Настольная игра 'Покорение марса: Колонии'",
             "price": 2150,
             "tags": ["настолки"],
