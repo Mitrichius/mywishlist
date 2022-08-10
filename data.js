@@ -31,6 +31,13 @@ let data = {
             "description": "Или аналогичный",
         },
         {
+            "name": "Xiaomi Mijia Electric Precision Screwdriver",
+            "price": 3500,
+            "tags": ["инструменты"],
+            "url": "https://www.ozon.ru/product/elektricheskaya-otvertka-xiaomi-mijia-electric-precision-screwdriver-24v1-mjddlsd003qw-temno-seraya-212879559",
+            "image": "https://cdn1.ozone.ru/s3/multimedia-c/wc1000/6029937972.jpg",
+        },
+        {
             "name": "Apple Watch Series 7",
             "price": 43000,
             "tags": ["техника"],
