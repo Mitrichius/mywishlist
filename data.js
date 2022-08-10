@@ -16,6 +16,13 @@ let data = {
             "multi": 1,
         },
         {
+            "name": "Kirby and the Forgotten Land",
+            "price": 5000,
+            "tags": ["игры"],
+            "url": "https://www.avito.ru/moskva?cd=1&q=kirby+forgotten+land",
+            "image": "https://www.gamesonly.at/manuelle_artikel_images/Kirby_and_the_Forgotten_Land_Nintendo_Switch_2022_01_07_12_58_20_600.jpg",
+        },
+        {
             "name": "Apple Watch Series 7",
             "price": 43000,
             "tags": ["техника"],
