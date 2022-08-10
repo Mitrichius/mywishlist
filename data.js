@@ -23,6 +23,14 @@ let data = {
             "image": "https://www.gamesonly.at/manuelle_artikel_images/Kirby_and_the_Forgotten_Land_Nintendo_Switch_2022_01_07_12_58_20_600.jpg",
         },
         {
+            "name": "Leatherman Free P2",
+            "price": 16000,
+            "tags": ["инструменты"],
+            "url": "https://ileatherman.ru/multitul-leatherman-free-p2-832638-s-nejlonovym-chexlom",
+            "image": "https://ileatherman.ru/image/cache/catalog/Produkts2/multitul-leatherman-charge-free-p2-s-nejlonovym-chexlom0-680x680.webp",
+            "description": "Или аналогичный",
+        },
+        {
             "name": "Apple Watch Series 7",
             "price": 43000,
             "tags": ["техника"],
