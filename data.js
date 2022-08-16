@@ -35,6 +35,7 @@ let data = {
             "tags": ["сертификаты", "одежда"],
             "url": "https://sport-marafon.ru/catalog/podarochnye-sertifikaty/",
             "image": "https://sport-marafon.ru/upload/resize_cache/files/iblock/elements/757d49da-9fe4-11e1-b026-e83935202583/d5e05e03-19fd-11ec-80cf-901b0e95a2a8/570_550_1/d5e05e0319fd11ec80cf901b0e95a2a8_f3d184b51aee11ec80cf901b0e95a2a8.jpg",
+            "multi": 1,
         },
         {
             "name": "Leatherman Free P2",
