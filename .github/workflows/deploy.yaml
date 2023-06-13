@@ -1,0 +1,28 @@
+name: deploy
+on:
+  push:
+    branches:
+    - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        submodules: true
+
+    - name: Build
+      run: cp ./src/index.html ./index.html && sed -i "s/.js?v=[0-9]\+/.js?v=$(date +%s)/g" ./index.html
+      
+    - name: rsync deployments
+      uses: burnett01/rsync-deployments@5.2.1
+      with:
+        switches: -avz --delete
+        path: /
+        remote_path: ${{ secrets.DEPLOY_PATH }}
+        remote_host: ${{ secrets.DEPLOY_HOST }}
+        remote_user: ${{ secrets.DEPLOY_USER }}
+        remote_key: ${{ secrets.DEPLOY_KEY }}
