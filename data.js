@@ -2,19 +2,10 @@ let data = {
     "config": {
         "image_default": "https://s3.amazonaws.com/gt7sp-prod/decal/20/65/90/4684386837524906520_1.png",
         "currency_default": "руб",
-        "description": "Для бронирования обращаться к <a href=\"tg://resolve?domain=karjalainen_mariia\">Марье</a>",
+        "description": "Отсортировано по приоритету. <br/> Для бронирования обращаться к <a href=\"tg://resolve?domain=karjalainen_mariia\">Марье</a>",
         "show_archived": 1,
     },
     "items": [
-        // {
-        //     "name": "Anbernic Rg350",
-        //     "price": 100,
-        //     "currency": "€",
-        //     "description": "Или любая другая модель",
-        //     "tags": ["техника"],
-        //     "url": "https://anbernic.com/products/anbernic-new-retro-game-rg350-video-game-handheld-game-console-mini-64-bit-3-5-inch-ips-screen-16g-game-player-rg-350-ps1-rg350m",
-        //     "image": "https://cdn.shopify.com/s/files/1/0597/2364/5092/products/350_2000x.jpg?v=1669008722",
-        // },
         {
             "name": "PlayStation VR2",
             "price": 600,
