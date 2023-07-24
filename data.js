@@ -15,6 +15,14 @@ let data = {
             "image": "https://media.direct.playstation.com/is/image/sierialto/PS-VR2-Hero?$Column_Large$",
         },
         {
+            "name": "SSD - Samsung 2TB 980 PRO with Heatsink",
+            "price": 300,
+            "currency": "€",
+            "tags": ["техника"],
+            "url": "https://www.samsung.com/us/computing/memory-storage/solid-state-drives/980-pro-w-heatsink-pcie-4-0-nvme-ssd-2tb-mz-v8p2t0cw/",
+            "image": "https://image-us.samsung.com/SamsungUS/home/92121/dve53bb8700ta3/pc/MZ-V8P2T0CW_01.jpg",
+        },
+        {
             "name": "Hacker gift",
             "price": 20,
             "currency": "$",
