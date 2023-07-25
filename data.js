@@ -111,7 +111,8 @@ let data = {
             "image": "https://www.parazitakusok.ru/images/item/3705/bez_imeni-1.jpg",
             "tags": ["стикеры"],
             "url": "https://www.parazitakusok.ru/item/3705/",
-            "date": "2020-07-08"
+            "date": "2020-07-08",
+            "archived": 1,
         },
         {
             "name": "Сертификат от Валеры",
