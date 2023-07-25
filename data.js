@@ -106,15 +106,6 @@ let data = {
             "image": "https://cdn.shopify.com/s/files/1/0014/1962/products/product_bloodborne_plain-doll-hand_pin_main_e65bc9c5-8daf-4b52-9072-ee0204c7a389_1024x1024.png?v=1592247200"
         },
         {
-            "name": "Стикерпак Fallout",
-            "price": 250,
-            "image": "https://www.parazitakusok.ru/images/item/3705/bez_imeni-1.jpg",
-            "tags": ["стикеры"],
-            "url": "https://www.parazitakusok.ru/item/3705/",
-            "date": "2020-07-08",
-            "archived": 1,
-        },
-        {
             "name": "Сертификат от Валеры",
             "price": "5к to infinity and beyond",
             "currency": "(руб)",
