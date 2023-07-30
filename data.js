@@ -2,7 +2,7 @@ let data = {
     "config": {
         "image_default": "https://s3.amazonaws.com/gt7sp-prod/decal/20/65/90/4684386837524906520_1.png",
         "currency_default": "руб",
-        "description": "Отсортировано по приоритету. <br/> Для бронирования обращаться к <a href=\"tg://resolve?domain=karjalainen_mariia\">Марье</a>",
+        "description": "Отсортировано по приоритету. <br/> Для бронирования писать <a href=\"tg://resolve?domain=karjalainen_mariia\">Марье</a>",
         "show_archived": 1,
     },
     "items": [
