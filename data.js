@@ -7,6 +7,14 @@ let data = {
     },
     "items": [
         {
+            "name": "Нарды (длинные)",
+            "price": 5000,
+            "currency": "RSD",
+            "tags": ["настолки"],
+            "url": "",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Backgammon_board.jpg/548px-Backgammon_board.jpg",
+        },
+        {
             "name": "PlayStation VR2",
             "price": 600,
             "currency": "€",
@@ -29,6 +37,22 @@ let data = {
             "tags": ["geek"],
             "url": "https://hacker.gifts/",
             "image": "https://cdn.shopify.com/s/files/1/0013/8539/8385/products/card_1_1024x1024.png",
+        },
+        {
+            "name": "The Legend of Zelda: Tears of the Kingdom",
+            "price": 70,
+            "currency": "€",
+            "tags": ["игры"],
+            "url": "https://www.nintendo.com/store/products/the-legend-of-zelda-tears-of-the-kingdom-switch/",
+            "image": "https://www.games.rs/files/thumbs/files/images/product/thumbs_960/Switch-The-Legend-of-Zelda-Tears-of-The-Kingdom_960_1200px.jpg.webp",
+        },
+                {
+            "name": "Шахматы",
+            "price": 3000,
+            "currency": "RSD",
+            "tags": ["настолки"],
+            "url": "",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Opening_chess_position_from_black_side.jpg/548px-Opening_chess_position_from_black_side.jpg",
         },
         {
             "name": "Комикс Preacher (Hardcover) Book Four и последующие",
