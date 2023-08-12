@@ -11,7 +11,7 @@ let data = {
             "price": 5000,
             "currency": "RSD",
             "tags": ["настолки"],
-            "url": "",
+            "url": "https://ananas.rs/proizvod/komplet-sah-i-bekgemon/540362",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Backgammon_board.jpg/548px-Backgammon_board.jpg",
         },
         {
