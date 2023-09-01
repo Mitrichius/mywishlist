@@ -15,22 +15,6 @@ let data = {
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Backgammon_board.jpg/548px-Backgammon_board.jpg",
         },
         {
-            "name": "PlayStation VR2",
-            "price": 600,
-            "currency": "€",
-            "tags": ["техника"],
-            "url": "https://www.playstation.com/en-us/ps-vr2/",
-            "image": "https://media.direct.playstation.com/is/image/sierialto/PS-VR2-Hero?$Column_Large$",
-        },
-        {
-            "name": "SSD - Samsung 2TB 980 PRO with Heatsink",
-            "price": 300,
-            "currency": "€",
-            "tags": ["техника"],
-            "url": "https://www.samsung.com/us/computing/memory-storage/solid-state-drives/980-pro-w-heatsink-pcie-4-0-nvme-ssd-2tb-mz-v8p2t0cw/",
-            "image": "https://image-us.samsung.com/SamsungUS/home/92121/dve53bb8700ta3/pc/MZ-V8P2T0CW_01.jpg",
-        },
-        {
             "name": "Hacker gift",
             "price": 20,
             "currency": "$",
@@ -39,28 +23,12 @@ let data = {
             "image": "https://cdn.shopify.com/s/files/1/0013/8539/8385/products/card_1_1024x1024.png",
         },
         {
-            "name": "The Legend of Zelda: Tears of the Kingdom",
-            "price": 70,
-            "currency": "€",
-            "tags": ["игры"],
-            "url": "https://www.nintendo.com/store/products/the-legend-of-zelda-tears-of-the-kingdom-switch/",
-            "image": "https://www.games.rs/files/thumbs/files/images/product/thumbs_960/Switch-The-Legend-of-Zelda-Tears-of-The-Kingdom_960_1200px.jpg.webp",
-        },
-                {
             "name": "Шахматы",
             "price": 3000,
             "currency": "RSD",
             "tags": ["настолки"],
             "url": "",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Opening_chess_position_from_black_side.jpg/548px-Opening_chess_position_from_black_side.jpg",
-        },
-        {
-            "name": "Комикс Preacher (Hardcover) Book Four и последующие",
-            "price": 27,
-            "currency": "$",
-            "tags": ["комиксы"],
-            "url": "https://www.amazon.com/Preacher-Book-Four-Garth-Ennis/dp/1401230938",
-            "image": "https://cdn1.ozone.ru/multimedia/1010438854.jpg"
         },
         {
             "name": "Настольная игра Spirit Island",
@@ -128,6 +96,46 @@ let data = {
             "tags": ["pins"],
             "url": "https://www.fangamer.com/collections/bloodborne/products/bloodborne-saw-cleaver-pin",
             "image": "https://cdn.shopify.com/s/files/1/0014/1962/products/product_bloodborne_plain-doll-hand_pin_main_e65bc9c5-8daf-4b52-9072-ee0204c7a389_1024x1024.png?v=1592247200"
+        },
+
+        
+        
+        
+        {
+            "name": "PlayStation VR2",
+            "price": 600,
+            "currency": "€",
+            "tags": ["техника"],
+            "url": "https://www.playstation.com/en-us/ps-vr2/",
+            "image": "https://media.direct.playstation.com/is/image/sierialto/PS-VR2-Hero?$Column_Large$",
+            "archived": 1,
+        },
+        {
+            "name": "SSD - Samsung 2TB 980 PRO with Heatsink",
+            "price": 300,
+            "currency": "€",
+            "tags": ["техника"],
+            "url": "https://www.samsung.com/us/computing/memory-storage/solid-state-drives/980-pro-w-heatsink-pcie-4-0-nvme-ssd-2tb-mz-v8p2t0cw/",
+            "image": "https://image-us.samsung.com/SamsungUS/home/92121/dve53bb8700ta3/pc/MZ-V8P2T0CW_01.jpg",
+            "archived": 1,
+        },
+        {
+            "name": "The Legend of Zelda: Tears of the Kingdom",
+            "price": 70,
+            "currency": "€",
+            "tags": ["игры"],
+            "url": "https://www.nintendo.com/store/products/the-legend-of-zelda-tears-of-the-kingdom-switch/",
+            "image": "https://www.games.rs/files/thumbs/files/images/product/thumbs_960/Switch-The-Legend-of-Zelda-Tears-of-The-Kingdom_960_1200px.jpg.webp",
+            "archived": 1,
+        },
+        {
+            "name": "Комикс Preacher (Hardcover) Book Four и последующие",
+            "price": 27,
+            "currency": "$",
+            "tags": ["комиксы"],
+            "url": "https://www.amazon.com/Preacher-Book-Four-Garth-Ennis/dp/1401230938",
+            "image": "https://cdn1.ozone.ru/multimedia/1010438854.jpg",
+            "archived": 1,
         },
         {
             "name": "Сертификат от Валеры",
