@@ -7,28 +7,12 @@ let data = {
     },
     "items": [
         {
-            "name": "Нарды (длинные)",
-            "price": 5000,
-            "currency": "RSD",
-            "tags": ["настолки"],
-            "url": "https://ananas.rs/proizvod/komplet-sah-i-bekgemon/540362",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Backgammon_board.jpg/548px-Backgammon_board.jpg",
-        },
-        {
             "name": "Hacker gift",
             "price": 20,
             "currency": "$",
             "tags": ["geek"],
             "url": "https://hacker.gifts/",
             "image": "https://cdn.shopify.com/s/files/1/0013/8539/8385/products/card_1_1024x1024.png",
-        },
-        {
-            "name": "Шахматы",
-            "price": 3000,
-            "currency": "RSD",
-            "tags": ["настолки"],
-            "url": "",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Opening_chess_position_from_black_side.jpg/548px-Opening_chess_position_from_black_side.jpg",
         },
         {
             "name": "Настольная игра Spirit Island",
@@ -100,7 +84,24 @@ let data = {
 
         
         
-        
+        {
+            "name": "Нарды (длинные)",
+            "price": 5000,
+            "currency": "RSD",
+            "tags": ["настолки"],
+            "url": "https://ananas.rs/proizvod/komplet-sah-i-bekgemon/540362",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Backgammon_board.jpg/548px-Backgammon_board.jpg",
+            "archived": 1,
+        },
+        {
+            "name": "Шахматы",
+            "price": 3000,
+            "currency": "RSD",
+            "tags": ["настолки"],
+            "url": "",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Opening_chess_position_from_black_side.jpg/548px-Opening_chess_position_from_black_side.jpg",
+            "archived": 1,
+        },
         {
             "name": "PlayStation VR2",
             "price": 600,
