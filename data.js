@@ -15,14 +15,6 @@ let data = {
             "image": "https://cdn.shopify.com/s/files/1/0013/8539/8385/products/card_1_1024x1024.png",
         },
         {
-            "name": "Настольная игра Spirit Island",
-            "price": 12500,
-            "currency": "RSD",
-            "tags": ["настолки"],
-            "url": "https://conflux.rs/index.php?route=product/product&product_id=5643",
-            "image": "https://conflux.rs/image/cache/catalog/BoardGameImgs/bg0162886-1100x1100.jpg",
-        },
-        {
             "name": "Футболка Outer Wilds: Written in the Stars",
             "price": 32,
             "currency": "$",
@@ -83,7 +75,15 @@ let data = {
         },
 
         
-        
+        {
+            "name": "Настольная игра Spirit Island",
+            "price": 12500,
+            "currency": "RSD",
+            "tags": ["настолки"],
+            "url": "https://conflux.rs/index.php?route=product/product&product_id=5643",
+            "image": "https://conflux.rs/image/cache/catalog/BoardGameImgs/bg0162886-1100x1100.jpg",
+            "archived": 1,
+        },
         {
             "name": "Нарды (длинные)",
             "price": 5000,
