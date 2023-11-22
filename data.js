@@ -7,6 +7,20 @@ let data = {
     },
     "items": [
         {
+            "name": "Зонт",
+            "price": 3600,
+            "currency": "RSD",
+            "url": "https://geekshop.rs/quick-dry-kisobran/",
+            "image": "https://geekshop.rs/wp-content/uploads/2021/11/kisobran-za-brzo-susenje-quick-dry-xd-design-3.jpg",
+        },
+        {
+            "name": "Sling рюкзак",
+            "price": 5000,
+            "currency": "RSD",
+            "url": "https://bange.in.rs/bg-7229",
+            "image": "https://static.tildacdn.com/tild3239-3762-4537-b265-386333363162/image_2.jpg",
+        },
+        {
             "name": "Hacker gift",
             "price": 20,
             "currency": "$",
@@ -49,13 +63,6 @@ let data = {
             "url": "https://www.fangamer.com/collections/celeste/products/celeste-cassette-shirt",
             "image": "https://cdn.shopify.com/s/files/1/0014/1962/products/product_celeste_sides_shirt_photo1_1024x1024.png?v=1580160195",
             "description": "Размер XL",
-        },
-        {
-            "name": "Apple Watch Series 7",
-            "price": 43000,
-            "tags": ["техника"],
-            "url": "https://www.mvideo.ru/products/smart-chasy-apple-watch-series-7-gps-45mm-midnightal-midnight-sport-30064118",
-            "image": "https://img.mvideo.ru/Pdb/30064118b.jpg",
         },
         {
             "name": "Hollow Knight Pin",
