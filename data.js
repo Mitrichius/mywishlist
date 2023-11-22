@@ -11,7 +11,7 @@ let data = {
             "price": 80,
             "currency": "€",
             "url": "https://www.instagram.com/p/Cz81Na6Cl7j/",
-            "image": "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/403823928_3449459465364639_2670848722027646491_n.heic?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE0NDAuc2RyIn0&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=103&_nc_ohc=-Zto8UDWtFgAX9ddGCt&edm=ACWDqb8BAAAA&ccb=7-5&ig_cache_key=MzI0MTY5OTgzNjg1MjU2Njg5NQ%3D%3D.2-ccb7-5&oh=00_AfCWqLdaTBfU5crvJ3AtUkO-YCVQcK6RuTfl0bG2gjTiXg&oe=65632694&_nc_sid=ee9879",
+            "image": "/images/wallet.jpg",
         },
         {
             "name": "Зонт",
