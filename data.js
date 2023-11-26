@@ -21,11 +21,29 @@ let data = {
             "image": "https://geekshop.rs/wp-content/uploads/2021/11/kisobran-za-brzo-susenje-quick-dry-xd-design-3.jpg",
         },
         {
+            "name": "Чашка/кружка",
+            "url": "https://www.mlecna.rs/prodavnica/case-i-solje/%C5%A1olja-0,5l",
+            "image": "https://www.mlecna.rs/images/virtuemart/product/A%20910.jpg",
+            "description": "Любая большая (0.5), желательно монотонно/минималистичная"
+        },
+        {
             "name": "Sling рюкзак",
             "price": 5000,
             "currency": "RSD",
             "url": "https://bange.in.rs/bg-7229",
             "image": "https://static.tildacdn.com/tild3239-3762-4537-b265-386333363162/image_2.jpg",
+        },
+        {
+            "name": "Расчёска для бороды",
+            "price": 2200,
+            "currency": "RSD",
+            "url": "https://www.groomingmasters.rs/proizvodi/dzepni-cesalj-za-bradu-captain-fawcett/",
+            "image": "https://www.groomingmasters.rs/wp-content/uploads/2021/03/rasklopivi-cesalj-za-bradu-min.jpg",
+        },
+        {
+            "name": "Кубик Рубика",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Rubik%27s_cube.svg/548px-Rubik%27s_cube.svg.png",
+            "description": "Классический, можно скоростной"
         },
         {
             "name": "Hacker gift",
