@@ -24,7 +24,7 @@ let data = {
             "name": "Чашка/кружка",
             "url": "https://www.mlecna.rs/prodavnica/case-i-solje/%C5%A1olja-0,5l",
             "image": "https://www.mlecna.rs/images/virtuemart/product/A%20910.jpg",
-            "description": "Любая большая (0.5), желательно монотонно/минималистичная"
+            "description": "Любая большая (0.5), желательно монотонно/минималистичная. Лучше высокую, чем широкую"
         },
         {
             "name": "Sling рюкзак",
@@ -390,7 +390,7 @@ let data = {
             "url": "https://www.bagandwallet.ru/collection/nomatic/product/nomatic_travel_pack_kupit",
             "archived": 1,
         },
-                {
+        {
             "name": "Техносвященники. Том первый",
             "price": 1400,
             "tags": ["комиксы"],
