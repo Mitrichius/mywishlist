@@ -21,10 +21,24 @@ let data = {
             "image": "https://geekshop.rs/wp-content/uploads/2021/11/kisobran-za-brzo-susenje-quick-dry-xd-design-3.jpg",
         },
         {
+            "name": "Keenetic Sprinter Ax1800",
+            "price": 85,
+            "currency": "€",
+            "url": "https://www.kupujemprodajem.com/kompjuteri-desktop/modemi-i-ruteri/keenetic-sprinter-ax1800-wi-fi-6-gigabit-router-ketallasu-me/oglas/158808714",
+            "image": "https://images.kupujemprodajem.com/photos/oglasi/4/71/158808714/158808714_6540e2aee953f1-198321062076901_keeneti.webp",
+        },
+        {
             "name": "Чашка/кружка",
             "url": "https://www.mlecna.rs/prodavnica/case-i-solje/%C5%A1olja-0,5l",
             "image": "https://www.mlecna.rs/images/virtuemart/product/A%20910.jpg",
             "description": "Любая большая (0.5), желательно монотонно/минималистичная. Лучше высокую, чем широкую"
+        },
+        {
+            "name": "Synology DS124",
+            "price": 180,
+            "currency": "€",
+            "url": "https://www.kupujemprodajem.com/kompjuteri-desktop/nas-uredjaji/synology-ds124/oglas/155932537?filterId=4035973568",
+            "image": "https://images.kupujemprodajem.com/photos/oglasi/7/53/155932537/155932537_64e6d1039f95f2-43035015Synology-Ds124.webp",
         },
         {
             "name": "Sling рюкзак",
