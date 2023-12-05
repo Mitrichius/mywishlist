@@ -48,13 +48,6 @@ let data = {
             "image": "https://static.tildacdn.com/tild3239-3762-4537-b265-386333363162/image_2.jpg",
         },
         {
-            "name": "Расчёска для бороды",
-            "price": 2200,
-            "currency": "RSD",
-            "url": "https://www.groomingmasters.rs/proizvodi/dzepni-cesalj-za-bradu-captain-fawcett/",
-            "image": "https://www.groomingmasters.rs/wp-content/uploads/2021/03/rasklopivi-cesalj-za-bradu-min.jpg",
-        },
-        {
             "name": "Кубик Рубика",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Rubik%27s_cube.svg/548px-Rubik%27s_cube.svg.png",
             "description": "Классический, можно скоростной"
@@ -120,7 +113,16 @@ let data = {
             "image": "https://cdn.shopify.com/s/files/1/0014/1962/products/product_bloodborne_plain-doll-hand_pin_main_e65bc9c5-8daf-4b52-9072-ee0204c7a389_1024x1024.png?v=1592247200"
         },
 
+
         
+        {
+            "name": "Расчёска для бороды",
+            "price": 2200,
+            "currency": "RSD",
+            "url": "https://www.groomingmasters.rs/proizvodi/dzepni-cesalj-za-bradu-captain-fawcett/",
+            "image": "https://www.groomingmasters.rs/wp-content/uploads/2021/03/rasklopivi-cesalj-za-bradu-min.jpg",
+            "archived" 1,
+        },
         {
             "name": "Настольная игра Spirit Island",
             "price": 12500,
