@@ -121,7 +121,7 @@ let data = {
             "currency": "RSD",
             "url": "https://www.groomingmasters.rs/proizvodi/dzepni-cesalj-za-bradu-captain-fawcett/",
             "image": "https://www.groomingmasters.rs/wp-content/uploads/2021/03/rasklopivi-cesalj-za-bradu-min.jpg",
-            "archived" 1,
+            "archived": 1,
         },
         {
             "name": "Настольная игра Spirit Island",
