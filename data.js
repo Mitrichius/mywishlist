@@ -99,7 +99,7 @@ let data = {
             "currency": "€",
             "url": "https://www.kupujemprodajem.com/kompjuteri-desktop/modemi-i-ruteri/keenetic-sprinter-ax1800-wi-fi-6-gigabit-router-ketallasu-me/oglas/158808714",
             "image": "https://images.kupujemprodajem.com/photos/oglasi/4/71/158808714/158808714_6540e2aee953f1-198321062076901_keeneti.webp",
-            "archived" 1,
+            "archived": 1,
         },
         {
             "name": "Кошелёк",
@@ -107,7 +107,7 @@ let data = {
             "currency": "€",
             "url": "https://www.instagram.com/p/Cz81Na6Cl7j/",
             "image": "/images/wallet.jpg",
-            "archived" 1,
+            "archived": 1,
         },
         {
             "name": "Sling рюкзак",
@@ -115,7 +115,7 @@ let data = {
             "currency": "RSD",
             "url": "https://bange.in.rs/bg-7229",
             "image": "https://static.tildacdn.com/tild3239-3762-4537-b265-386333363162/image_2.jpg",
-            "archived" 1,
+            "archived": 1,
         },
         {
             "name": "Расчёска для бороды",
