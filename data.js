@@ -7,25 +7,11 @@ let data = {
     },
     "items": [
         {
-            "name": "Кошелёк",
-            "price": 80,
-            "currency": "€",
-            "url": "https://www.instagram.com/p/Cz81Na6Cl7j/",
-            "image": "/images/wallet.jpg",
-        },
-        {
             "name": "Зонт",
             "price": 3600,
             "currency": "RSD",
             "url": "https://geekshop.rs/quick-dry-kisobran/",
             "image": "https://geekshop.rs/wp-content/uploads/2021/11/kisobran-za-brzo-susenje-quick-dry-xd-design-3.jpg",
-        },
-        {
-            "name": "Keenetic Sprinter Ax1800",
-            "price": 85,
-            "currency": "€",
-            "url": "https://www.kupujemprodajem.com/kompjuteri-desktop/modemi-i-ruteri/keenetic-sprinter-ax1800-wi-fi-6-gigabit-router-ketallasu-me/oglas/158808714",
-            "image": "https://images.kupujemprodajem.com/photos/oglasi/4/71/158808714/158808714_6540e2aee953f1-198321062076901_keeneti.webp",
         },
         {
             "name": "Чашка/кружка",
@@ -39,13 +25,6 @@ let data = {
             "currency": "€",
             "url": "https://www.kupujemprodajem.com/kompjuteri-desktop/nas-uredjaji/synology-ds124/oglas/155932537?filterId=4035973568",
             "image": "https://images.kupujemprodajem.com/photos/oglasi/7/53/155932537/155932537_64e6d1039f95f2-43035015Synology-Ds124.webp",
-        },
-        {
-            "name": "Sling рюкзак",
-            "price": 5000,
-            "currency": "RSD",
-            "url": "https://bange.in.rs/bg-7229",
-            "image": "https://static.tildacdn.com/tild3239-3762-4537-b265-386333363162/image_2.jpg",
         },
         {
             "name": "Кубик Рубика",
@@ -114,7 +93,30 @@ let data = {
         },
 
 
-        
+        {
+            "name": "Keenetic Sprinter Ax1800",
+            "price": 85,
+            "currency": "€",
+            "url": "https://www.kupujemprodajem.com/kompjuteri-desktop/modemi-i-ruteri/keenetic-sprinter-ax1800-wi-fi-6-gigabit-router-ketallasu-me/oglas/158808714",
+            "image": "https://images.kupujemprodajem.com/photos/oglasi/4/71/158808714/158808714_6540e2aee953f1-198321062076901_keeneti.webp",
+            "archived" 1,
+        },
+        {
+            "name": "Кошелёк",
+            "price": 80,
+            "currency": "€",
+            "url": "https://www.instagram.com/p/Cz81Na6Cl7j/",
+            "image": "/images/wallet.jpg",
+            "archived" 1,
+        },
+        {
+            "name": "Sling рюкзак",
+            "price": 5000,
+            "currency": "RSD",
+            "url": "https://bange.in.rs/bg-7229",
+            "image": "https://static.tildacdn.com/tild3239-3762-4537-b265-386333363162/image_2.jpg",
+            "archived" 1,
+        },
         {
             "name": "Расчёска для бороды",
             "price": 2200,
