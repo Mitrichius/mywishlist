@@ -7,6 +7,13 @@ let data = {
     },
     "items": [
         {
+            "name": "Mi Selfie Stick Tripod",
+            "price": 3000,
+            "currency": "RSD",
+            "url": "https://mi-srbija.rs/aksesoari/selfie-stick/mi-selfie-stick-tripod-309",
+            "image": "https://mi-srbija.rs/storage/product/images/c4/35/mi-selfie-stick-tripod-309-6899.png",
+        },
+        {
             "name": "Зонт",
             "price": 3600,
             "currency": "RSD",
@@ -25,6 +32,13 @@ let data = {
             "currency": "€",
             "url": "https://www.kupujemprodajem.com/kompjuteri-desktop/nas-uredjaji/synology-ds124/oglas/155932537?filterId=4035973568",
             "image": "https://images.kupujemprodajem.com/photos/oglasi/7/53/155932537/155932537_64e6d1039f95f2-43035015Synology-Ds124.webp",
+        },
+        {
+            "name": "Xiaomi 65W GaN",
+            "price": 4300,
+            "currency": "RSD",
+            "url": "https://mi-srbija.rs/aksesoari/kablovi-i-adapteri/xiaomi-65w-gan-brzi-punjac-type-a-type-c-eu",
+            "image": "https://mi-srbija.rs/storage/product/images/bf/44/xiaomi-65w-gan-brzi-punjac-type-a-type-c-eu-5126.png",
         },
         {
             "name": "Кубик Рубика",
