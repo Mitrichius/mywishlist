@@ -27,6 +27,13 @@ let data = {
             "description": "Любая большая (0.5), желательно монотонно/минималистичная. Лучше высокую, чем широкую"
         },
         {
+            "name": "Funko Robin Hood",
+            "price": 2200,
+            "currency": "RSD",
+            "url": "https://www.games.rs/funko-pop-figure/30222-bobble-figure-disney-pop-robin-hood",
+            "image": "https://www.games.rs/files/images/product/Bobble-Figure-Disney-POP-Robin-Hood-prodaja-Srbija-HFI7556.jpg",
+        },
+        {
             "name": "Synology DS124",
             "price": 180,
             "currency": "€",
