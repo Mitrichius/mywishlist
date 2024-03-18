@@ -34,6 +34,13 @@ let data = {
             "image": "https://images.kupujemprodajem.com/photos/oglasi/7/53/155932537/155932537_64e6d1039f95f2-43035015Synology-Ds124.webp",
         },
         {
+            "name": "Playdate",
+            "price": 200,
+            "currency": "$",
+            "url": "https://shop.play.date/",
+            "image": "https://shop.play.date/cdn/shop/files/item-playdate-only_MaM_685x.png?v=1709234319",
+        },
+        {
             "name": "Xiaomi 65W GaN",
             "price": 4300,
             "currency": "RSD",
