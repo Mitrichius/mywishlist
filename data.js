@@ -21,12 +21,6 @@ let data = {
             "image": "https://geekshop.rs/wp-content/uploads/2021/11/kisobran-za-brzo-susenje-quick-dry-xd-design-3.jpg",
         },
         {
-            "name": "Чашка/кружка",
-            "url": "https://www.mlecna.rs/prodavnica/case-i-solje/%C5%A1olja-0,5l",
-            "image": "https://www.mlecna.rs/images/virtuemart/product/A%20910.jpg",
-            "description": "Любая большая (0.5), желательно монотонно/минималистичная. Лучше высокую, чем широкую"
-        },
-        {
             "name": "Synology DS124",
             "price": 180,
             "currency": "€",
@@ -113,7 +107,13 @@ let data = {
             "image": "https://cdn.shopify.com/s/files/1/0014/1962/products/product_bloodborne_plain-doll-hand_pin_main_e65bc9c5-8daf-4b52-9072-ee0204c7a389_1024x1024.png?v=1592247200"
         },
 
-
+        {
+            "name": "Чашка/кружка",
+            "url": "https://www.mlecna.rs/prodavnica/case-i-solje/%C5%A1olja-0,5l",
+            "image": "https://www.mlecna.rs/images/virtuemart/product/A%20910.jpg",
+            "description": "Любая большая (0.5), желательно монотонно/минималистичная. Лучше высокую, чем широкую",
+            "archived": 1,
+        },
         {
             "name": "Funko Robin Hood",
             "price": 2200,
