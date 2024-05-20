@@ -14,13 +14,6 @@ let data = {
             "image": "https://mi-srbija.rs/storage/product/images/c4/35/mi-selfie-stick-tripod-309-6899.png",
         },
         {
-            "name": "Зонт",
-            "price": 3600,
-            "currency": "RSD",
-            "url": "https://geekshop.rs/quick-dry-kisobran/",
-            "image": "https://geekshop.rs/wp-content/uploads/2021/11/kisobran-za-brzo-susenje-quick-dry-xd-design-3.jpg",
-        },
-        {
             "name": "Synology DS124",
             "price": 180,
             "currency": "€",
