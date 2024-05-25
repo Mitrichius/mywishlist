@@ -28,6 +28,13 @@ let data = {
             "image": "https://shop.play.date/cdn/shop/files/item-playdate-only_MaM_685x.png?v=1709234319",
         },
         {
+            "name": "Настольная игра Ark Nova (на английском)",
+            "price": 9300,
+            "currency": "RSD",
+            "url": "https://conflux.rs/index.php?route=product/product&product_id=10020",
+            "image": "https://conflux.rs/image/cache/catalog/BoardGameImgs/bg0342942-1100x1100h.jpg",
+        },
+        {
             "name": "Xiaomi 65W GaN",
             "price": 4300,
             "currency": "RSD",
