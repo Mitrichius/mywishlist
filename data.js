@@ -35,13 +35,6 @@ let data = {
             "image": "https://conflux.rs/image/cache/catalog/BoardGameImgs/bg0342942-1100x1100h.jpg",
         },
         {
-            "name": "Xiaomi 65W GaN",
-            "price": 4300,
-            "currency": "RSD",
-            "url": "https://mi-srbija.rs/aksesoari/kablovi-i-adapteri/xiaomi-65w-gan-brzi-punjac-type-a-type-c-eu",
-            "image": "https://mi-srbija.rs/storage/product/images/bf/44/xiaomi-65w-gan-brzi-punjac-type-a-type-c-eu-5126.png",
-        },
-        {
             "name": "Кубик Рубика",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Rubik%27s_cube.svg/548px-Rubik%27s_cube.svg.png",
             "description": "Классический, можно скоростной"
@@ -107,6 +100,14 @@ let data = {
             "image": "https://cdn.shopify.com/s/files/1/0014/1962/products/product_bloodborne_plain-doll-hand_pin_main_e65bc9c5-8daf-4b52-9072-ee0204c7a389_1024x1024.png?v=1592247200"
         },
 
+        {
+            "name": "Xiaomi 65W GaN",
+            "price": 4300,
+            "currency": "RSD",
+            "url": "https://mi-srbija.rs/aksesoari/kablovi-i-adapteri/xiaomi-65w-gan-brzi-punjac-type-a-type-c-eu",
+            "image": "https://mi-srbija.rs/storage/product/images/bf/44/xiaomi-65w-gan-brzi-punjac-type-a-type-c-eu-5126.png",
+            "archived": 1,
+        },
         {
             "name": "Чашка/кружка",
             "url": "https://www.mlecna.rs/prodavnica/case-i-solje/%C5%A1olja-0,5l",
